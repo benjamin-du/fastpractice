@@ -9,7 +9,7 @@ To start using colab notebooks, go <a href="https://colab.research.google.com/no
 
 You should see a window like this (if not, click on "file -> Open Notebook") :
 
-<img src='colab_open.png' />
+<img src='colab_open.png' style='width: 50%' />
 
 Please click on the "Github" Tab:
 
