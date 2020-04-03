@@ -9,15 +9,15 @@ To start using colab notebooks, go <a href="https://colab.research.google.com/no
 
 You should see a window like this (if not, click on "file -> Open Notebook") :
 
-<img src='colab_open.png' style='width: 50%' />
+<img src='colab_open.png' width='50%' />
 
 Please click on the "Github" Tab:
 
-<img src='colab_github1.png' />
+<img src='colab_github1.png' width=500 />
 
 Now, enter "bdubreu" in the search bar and press enter (or click the magnifying glass):
 
-<img src='colab_github2.png' />
+<img src='colab_github2.png' width=700 />
 
 You should see all the notebooks appearing. Select one, open it and you're good to go ;)
 
