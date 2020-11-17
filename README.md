@@ -15,9 +15,11 @@ Please click on the "Github" Tab:
 
 <img src='illustrations/colab_github1.png' width='80%' />
 
-Now, enter "bdubreu" in the search bar and press enter (or click the magnifying glass):
+Now, enter "benjamin-du" in the search bar and press enter (or click the magnifying glass):
 
 <img src='illustrations/colab_github2.png' width='80%' />
+
+### Important: the repo link has changed: please type "benjamin-du" and <b>not</b> "bdubreu" as is written in the picture! 
 
 You should see all the notebooks appearing. Select one, open it and you're good to go ;)
 
